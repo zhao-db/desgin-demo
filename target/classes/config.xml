@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-    <className>com.desgin.demo.desigindemo.factorymethod.service.TclTVFactory</className>
+    <className>com.desgin.demo.desigindemo.abstractfactory.ZdbSkinFactory</className>
 </config>

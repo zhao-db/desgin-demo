@@ -1,0 +1,6 @@
+
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(Ïœø†ıÿÿÿÿ8§¢„êÙ.
+W
+java:S3064"5Fully initialize "lazySingleton" before assigning it.(˜ËŞ¬úÿÿÿÿ8¾¼ƒêÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀèĞ¼ûÿÿÿÿ8¾¼ƒêÙ.
