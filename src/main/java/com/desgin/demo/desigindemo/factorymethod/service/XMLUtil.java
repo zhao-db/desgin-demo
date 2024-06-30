@@ -23,7 +23,7 @@ public class XMLUtil {
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         DocumentBuilder documentBuilder = factory.newDocumentBuilder();
         Document doc;
-        doc = documentBuilder.parse(new File("C:\\workspace\\desgin-demo\\src\\main\\resources\\config.xml"));
+        doc = documentBuilder.parse(new File("D:\\ideaProjects\\zdbProject\\desgin-demo\\src\\main\\resources\\config.xml"));
         NodeList className = doc.getElementsByTagName("className");
         Node classNode = className.item(0).getFirstChild();
         String cName = classNode.getNodeValue();
