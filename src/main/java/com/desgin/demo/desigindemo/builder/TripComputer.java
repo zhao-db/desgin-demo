@@ -1,4 +1,4 @@
-package com.desgin.demo.desigindemo.bulder;
+package com.desgin.demo.desigindemo.builder;
 
 /**
  * @Description
@@ -6,5 +6,5 @@ package com.desgin.demo.desigindemo.bulder;
  * @Date 2021/2/24 11:20
  * @Version 1.0
  */
-public class Transmission {
+public class TripComputer {
 }

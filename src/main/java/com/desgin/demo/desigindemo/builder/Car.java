@@ -1,4 +1,4 @@
-package com.desgin.demo.desigindemo.bulder;
+package com.desgin.demo.desigindemo.builder;
 
 import lombok.Getter;
 import lombok.Setter;
